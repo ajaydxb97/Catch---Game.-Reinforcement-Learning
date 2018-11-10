@@ -1,1 +1,1 @@
-# Catch---Game.-Reinforcement-Learning
+# Catch-Game.-Reinforcement-Learning
