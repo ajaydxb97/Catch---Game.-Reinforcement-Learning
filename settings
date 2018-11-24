@@ -1,0 +1,9 @@
+10x10
+hidden 20 (actor) and 20 (critic)
+gamma 0.9
+self.feature_dim = 100
+self.t = 0
+self.prev_x = None
+self.actor_learning_rate  = 1e-3
+self.critic_learning_rate = 1e-3
+self.gamma = 0.9
