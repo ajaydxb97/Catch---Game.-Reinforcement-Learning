@@ -17,5 +17,7 @@ This repository was created by Ajay Balasubramanian and Gaurav Duggal for a Proj
 3) Actor-Critic Entropy
 
 # Usage:
-All methods have their own py files named after them. It consists of both the training and testing of the agent.
+1) All methods have their own py files named after them. It consists of both the training and testing of the agent.
+2) The trained models have been uploaded to this repo: catch_reinforce.h5, actor.h5, cricitor.h5. Place them in the same directory as the corresponding py files if you want to skip the training.
+
 
