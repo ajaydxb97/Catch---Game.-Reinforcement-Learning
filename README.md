@@ -2,12 +2,12 @@
 This repository was created by Ajay Balasubramanian and Gaurav Duggal for a Project: Implementation of a Catch game agent using Policy Gradient Methods.
 
 # Requirements:
-Python 3.6
-numpy
-keras
-tensorflow
-scipy
-matplotlib
+1) Python 3.6
+2) numpy
+3) keras
+4) tensorflow
+5) scipy
+6) matplotlib
 
 
 # Methods used:
